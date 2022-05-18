@@ -1,0 +1,9 @@
+t1 veau male 11 11 1970 100 
+t3 Brebi male 3 3 1970 45 
+t4 Veau Male 4 4 1970 400 
+t5 Brebi Female 5 5 1970 500 
+t6 berbi Male 6 6 1970 600 
+t7 Brebi Female 7 7 1970 700 
+t8 Brebi male 8 8 1970 220 
+t61 Veau Female 10 10 2050 100 
+t9 Veau Female 31 1 2020 52 

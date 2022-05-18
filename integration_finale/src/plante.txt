@@ -1,0 +1,7 @@
+P1 Pomme Fruits 20 10 2050 50 
+P2 ca Legumes 31 12 2029 2 
+mm adem Legumes 6 10 2010 20 
+qq ii Legumes 31 12 2038 39 
+pt500 adem Fruits 9 12 2000 11 
+pr455 rima Legumes 1 9 2000 6 
+pr45 aa Fruits 1 9 2000 6 
